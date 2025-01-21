@@ -1,0 +1,14 @@
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\ESTUDOS\Logica C#\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll

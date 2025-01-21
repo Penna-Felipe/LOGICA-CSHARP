@@ -1,0 +1,14 @@
+D:\ESTUDOS\Logica C#\BEECROWD-1011\bin\Debug\net8.0\BEECROWD-1011.exe
+D:\ESTUDOS\Logica C#\BEECROWD-1011\bin\Debug\net8.0\BEECROWD-1011.deps.json
+D:\ESTUDOS\Logica C#\BEECROWD-1011\bin\Debug\net8.0\BEECROWD-1011.runtimeconfig.json
+D:\ESTUDOS\Logica C#\BEECROWD-1011\bin\Debug\net8.0\BEECROWD-1011.dll
+D:\ESTUDOS\Logica C#\BEECROWD-1011\bin\Debug\net8.0\BEECROWD-1011.pdb
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\BEECROWD-1011.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\BEECROWD-1011.AssemblyInfoInputs.cache
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\BEECROWD-1011.AssemblyInfo.cs
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\BEECROWD-1011.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\BEECROWD-1011.dll
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\refint\BEECROWD-1011.dll
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\BEECROWD-1011.pdb
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\BEECROWD-1011.genruntimeconfig.cache
+D:\ESTUDOS\Logica C#\BEECROWD-1011\obj\Debug\net8.0\ref\BEECROWD-1011.dll
