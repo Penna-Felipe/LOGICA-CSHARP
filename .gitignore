@@ -1,0 +1,3 @@
+# Ignorar todas as pastas obj
+**/obj/
+**/bin/
